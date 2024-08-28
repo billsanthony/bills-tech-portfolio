@@ -26,8 +26,8 @@ Here are some of the key skills that I bring to the table:
 
 Feel free to reach out to me for any inquiries, collaborations, or project opportunities:
 
-- Email: anthonypaulakpan@gmail.com 
-- Phone: +234 8063465456
+- Email: pajemo2004@yahoo.com 
+- Phone: +1(346)2024783
 - Portfolio Website: (https://billsanthony.github.io/portfolio/)
 
 I look forward to working with you and creating exceptional web experiences!
