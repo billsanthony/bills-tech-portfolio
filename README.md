@@ -1,4 +1,4 @@
-# Andrew Bassey - Web Designer
+# ANTHONY PAUL - Web Designer
 
 ![Profile Picture](profile_picture.jpg)
 
