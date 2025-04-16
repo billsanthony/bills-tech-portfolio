@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Hi there! I'm Andrew Bassey, a passionate web designer with a keen eye for aesthetics and a knack for creating visually stunning and user-friendly websites. With several years of experience in the industry, I have developed a strong understanding of modern web design principles and best practices.
+Hi there! I'm Anthony Paul, a passionate web designer with a keen eye for aesthetics and a knack for creating visually stunning and user-friendly websites. With several years of experience in the industry, I have developed a strong understanding of modern web design principles and best practices.
 
 In this portfolio, I showcase some of my notable projects to demonstrate my skills, creativity, and attention to detail. Whether you're looking to revamp your existing website or create a brand new one from scratch, I'm here to help you bring your vision to life.
 
@@ -28,6 +28,6 @@ Feel free to reach out to me for any inquiries, collaborations, or project oppor
 
 - Email: anthonypaulakpan@gmail.com 
 - Phone: +2348163126587
-- Portfolio Website: (https://billsanthony.github.io/portfolio/)
+- Portfolio Website: https://billsanthony.github.io/bills-tech-portfolio/
 
 I look forward to working with you and creating exceptional web experiences!
